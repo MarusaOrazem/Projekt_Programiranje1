@@ -1,0 +1,3413 @@
+[
+  {
+    "kategorija": "A",
+    "mesto": "1",
+    "netto_cas": "2:25:42",
+    "ime": "Gizaw Melkam",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "1",
+    "drzava": "ETH"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "2",
+    "netto_cas": "2:30:36",
+    "ime": "Korir Rebecca",
+    "letnica_rojstva": "1992",
+    "mesto_v_kategoriji": "2",
+    "drzava": "KEN"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "3",
+    "netto_cas": "2:33:58",
+    "ime": "Tuei Naomi",
+    "letnica_rojstva": "1993",
+    "mesto_v_kategoriji": "3",
+    "drzava": "KEN"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "4",
+    "netto_cas": "2:39:40",
+    "ime": "Balciunaite Zivile",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "1",
+    "drzava": "LTU"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "5",
+    "netto_cas": "2:49:33",
+    "ime": "Mravlje Ne\u017ea",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "6",
+    "netto_cas": "3:00:25",
+    "ime": "Tratnik Petra",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "4",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "7",
+    "netto_cas": "3:09:16",
+    "ime": "Urban Maja",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "1",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "8",
+    "netto_cas": "3:09:57",
+    "ime": "Jelov\u0161ek Jasmina",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "9",
+    "netto_cas": "3:12:07",
+    "ime": "Borg Chiara",
+    "letnica_rojstva": "1989",
+    "mesto_v_kategoriji": "5",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "10",
+    "netto_cas": "3:13:27",
+    "ime": "Poto\u010dnik Tanja",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "3",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "11",
+    "netto_cas": "3:13:33",
+    "ime": "Raku\u0161\u010dek Katja",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "1",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "12",
+    "netto_cas": "3:14:42",
+    "ime": "Kmet Loreta",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "3",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "13",
+    "netto_cas": "3:15:16",
+    "ime": "Str\u017einar Marjeta",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "14",
+    "netto_cas": "3:16:22",
+    "ime": "Prevodnik Tina",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "4",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "15",
+    "netto_cas": "3:19:15",
+    "ime": "Hafner Mojca",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "16",
+    "netto_cas": "3:19:38",
+    "ime": "Trklja Nora",
+    "letnica_rojstva": "1989",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "17",
+    "netto_cas": "3:20:13",
+    "ime": "Zevnik Andreja",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "4",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "18",
+    "netto_cas": "3:21:49",
+    "ime": "Melihen Erika",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "1",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "19",
+    "netto_cas": "3:22:27",
+    "ime": "Zajc \u0160u\u0161ter\u0161i\u010d Jerca",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "5",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "20",
+    "netto_cas": "3:23:06",
+    "ime": "Vianello Valentina",
+    "letnica_rojstva": "1964",
+    "mesto_v_kategoriji": "1",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "21",
+    "netto_cas": "3:23:19",
+    "ime": "Szunyog Erika",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "2",
+    "drzava": "HUN"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "22",
+    "netto_cas": "3:23:57",
+    "ime": "Iervolino Daniela",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "5",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "23",
+    "netto_cas": "3:24:09",
+    "ime": "Kor\u010de Andreja",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "24",
+    "netto_cas": "3:25:30",
+    "ime": "Fergusson Leanne",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "3",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "25",
+    "netto_cas": "3:25:39",
+    "ime": "Lapanja Marinka",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "26",
+    "netto_cas": "3:26:35",
+    "ime": "Kav\u010di\u010d Petra",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "3",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "27",
+    "netto_cas": "3:27:08",
+    "ime": "Colnar Martina",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "4",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "28",
+    "netto_cas": "3:27:24",
+    "ime": "Mastrovic Vlasta",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "5",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "29",
+    "netto_cas": "3:28:21",
+    "ime": "Futivi\u0107 Kristina",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "6",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "30",
+    "netto_cas": "3:29:00",
+    "ime": "Vavkman Karmen",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "31",
+    "netto_cas": "3:29:01",
+    "ime": "Capuder Romana",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "32",
+    "netto_cas": "3:29:47",
+    "ime": "Coppi Stefania",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "9",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "34",
+    "netto_cas": "3:29:59",
+    "ime": "Arne\u017e Teja",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "3",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "35",
+    "netto_cas": "3:30:12",
+    "ime": "Trontelj Marija",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "36",
+    "netto_cas": "3:30:44",
+    "ime": "Vebster Sanja",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "5",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "38",
+    "netto_cas": "3:31:17",
+    "ime": "Pintari\u010d Dina",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "39",
+    "netto_cas": "3:31:22",
+    "ime": "Podjed Silva",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "40",
+    "netto_cas": "3:31:24",
+    "ime": "Pavc Alenka",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "10",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "41",
+    "netto_cas": "3:31:30",
+    "ime": "Gor\u0161in Katarina",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "42",
+    "netto_cas": "3:31:50",
+    "ime": "Felicijan Ana",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "43",
+    "netto_cas": "3:31:51",
+    "ime": "Adle\u0161i\u010d Barba Nata\u0161aa",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "44",
+    "netto_cas": "3:32:48",
+    "ime": "Romih Maja",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "45",
+    "netto_cas": "3:33:07",
+    "ime": "Senkovi\u0107 Senka",
+    "letnica_rojstva": "1964",
+    "mesto_v_kategoriji": "4",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "46",
+    "netto_cas": "3:33:18",
+    "ime": "Pu\u0161ec Mara",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "9",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "47",
+    "netto_cas": "3:33:22",
+    "ime": "Bitenc Nina",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "9",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "48",
+    "netto_cas": "3:33:31",
+    "ime": "Me\u0161ko Mateja",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "10",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "49",
+    "netto_cas": "3:34:05",
+    "ime": "Safranj Jamanta",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "10",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "50",
+    "netto_cas": "3:34:17",
+    "ime": "Andreeva Zhanna",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "51",
+    "netto_cas": "3:34:39",
+    "ime": "Bursac Biljana",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "52",
+    "netto_cas": "3:34:45",
+    "ime": "Trpin Suzana",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "9",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "53",
+    "netto_cas": "3:34:58",
+    "ime": "Romih Melita",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "54",
+    "netto_cas": "3:35:13",
+    "ime": "Frelih Nina",
+    "letnica_rojstva": "1989",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "55",
+    "netto_cas": "3:35:34",
+    "ime": "Pirh Barbara",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "9",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "56",
+    "netto_cas": "3:35:56",
+    "ime": "Bertoncelj Teja",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "57",
+    "netto_cas": "3:36:36",
+    "ime": "Orton Karolina",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "12",
+    "drzava": "USA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "58",
+    "netto_cas": "3:36:37",
+    "ime": "Prosen Tina",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "59",
+    "netto_cas": "3:37:16",
+    "ime": "Gradi\u0161ar Andreja",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "61",
+    "netto_cas": "3:37:21",
+    "ime": "Gomil\u0161ak Marjeta",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "14",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "62",
+    "netto_cas": "3:37:24",
+    "ime": "Ahac Ur\u0161ka",
+    "letnica_rojstva": "1991",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "63",
+    "netto_cas": "3:38:01",
+    "ime": "Hvalec Alja",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "64",
+    "netto_cas": "3:39:35",
+    "ime": "Petronio Isabel",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "65",
+    "netto_cas": "3:39:47",
+    "ime": "Jakopi\u010d Manca",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "66",
+    "netto_cas": "3:41:03",
+    "ime": "Paravinja Du\u0161an",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "67",
+    "netto_cas": "3:41:24",
+    "ime": "Lune\u017enik Vlasta",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "10",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "68",
+    "netto_cas": "3:41:25",
+    "ime": "Zoubek Petra",
+    "letnica_rojstva": "1996",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "69",
+    "netto_cas": "3:42:01",
+    "ime": "Me\u017ea Bo\u017ea",
+    "letnica_rojstva": "1957",
+    "mesto_v_kategoriji": "1",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "70",
+    "netto_cas": "3:42:45",
+    "ime": "Kontelj Alenka",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "16",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "71",
+    "netto_cas": "3:43:19",
+    "ime": "Strandman Kari-anne",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "14",
+    "drzava": "NOR"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "72",
+    "netto_cas": "3:43:38",
+    "ime": "Bla\u017ei\u010d Marta",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "73",
+    "netto_cas": "3:44:01",
+    "ime": "Pu\u0161nik Veronika",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "74",
+    "netto_cas": "3:44:16",
+    "ime": "Suzanne Van Der Wijst",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "14",
+    "drzava": "NED"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "75",
+    "netto_cas": "3:44:24",
+    "ime": "Vesel Mojca",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "5",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "76",
+    "netto_cas": "3:44:25",
+    "ime": "Klan\u010dnik Anja",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "77",
+    "netto_cas": "3:44:30",
+    "ime": "Dor\u010di\u0107 Jelena",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "14",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "78",
+    "netto_cas": "3:44:38",
+    "ime": "Kav\u010di\u010d Ne\u017eka",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "79",
+    "netto_cas": "3:44:50",
+    "ime": "Hotko Vanja",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "16",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "80",
+    "netto_cas": "3:44:58",
+    "ime": "Gnezda Rupnik Anita",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "17",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "81",
+    "netto_cas": "3:45:44",
+    "ime": "Tu\u0161ar Mihaela",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "82",
+    "netto_cas": "3:46:09",
+    "ime": "Klan\u010dar Bojana",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "18",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "83",
+    "netto_cas": "3:46:25",
+    "ime": "Tomasevic Natasa",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "16",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "85",
+    "netto_cas": "3:46:34",
+    "ime": "Leskovar Sonja",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "17",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "86",
+    "netto_cas": "3:46:58",
+    "ime": "Doki\u0107 Daliborka",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "18",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "87",
+    "netto_cas": "3:47:07",
+    "ime": "Mlinar Polonca",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "20",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "88",
+    "netto_cas": "3:47:37",
+    "ime": "Charoupa Zoi",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "23",
+    "drzava": "GRE"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "91",
+    "netto_cas": "3:47:38",
+    "ime": "Dolenc Vesna",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "19",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "92",
+    "netto_cas": "3:47:39",
+    "ime": "Yebuah Tiran Irena",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "20",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "93",
+    "netto_cas": "3:47:51",
+    "ime": "Hace Manca",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "24",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "94",
+    "netto_cas": "3:48:31",
+    "ime": "Volk Maja",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "96",
+    "netto_cas": "3:48:51",
+    "ime": "Grum \u0160pela",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "25",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "97",
+    "netto_cas": "3:48:59",
+    "ime": "Selin\u0161ek Bo\u017eica",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "14",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "98",
+    "netto_cas": "3:49:06",
+    "ime": "Fin\u017egar Nadja",
+    "letnica_rojstva": "1951",
+    "mesto_v_kategoriji": "1",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "99",
+    "netto_cas": "3:49:11",
+    "ime": "Brumen Sanda",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "26",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "100",
+    "netto_cas": "3:49:15",
+    "ime": "Mati\u010di\u010d Aljan\u010di\u010d Nata\u0161a",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "101",
+    "netto_cas": "3:49:16",
+    "ime": "Plahuta Marta",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "102",
+    "netto_cas": "3:50:18",
+    "ime": "Premrl Lemut Alenka",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "16",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "104",
+    "netto_cas": "3:50:19",
+    "ime": "Jo\u0161t Miriam",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "17",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "105",
+    "netto_cas": "3:50:31",
+    "ime": "Trkov Andreja",
+    "letnica_rojstva": "1960",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "106",
+    "netto_cas": "3:50:37",
+    "ime": "Dem\u0161ar Polona",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "27",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "107",
+    "netto_cas": "3:51:29",
+    "ime": "Udovi\u010d Barbara",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "22",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "109",
+    "netto_cas": "3:52:11",
+    "ime": "Sterle Podobnik Andreja",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "28",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "111",
+    "netto_cas": "3:52:12",
+    "ime": "Hasi\u010di\u0107 Anja",
+    "letnica_rojstva": "1992",
+    "mesto_v_kategoriji": "18",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "112",
+    "netto_cas": "3:52:20",
+    "ime": "Bennett Magdalene",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "23",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "113",
+    "netto_cas": "3:52:22",
+    "ime": "Mohar Delphine",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "29",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "114",
+    "netto_cas": "3:52:29",
+    "ime": "Markun Barbara",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "18",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "115",
+    "netto_cas": "3:52:45",
+    "ime": "Pintar Tanja",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "19",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "117",
+    "netto_cas": "3:53:01",
+    "ime": "Vojska Martina",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "119",
+    "netto_cas": "3:53:19",
+    "ime": "Kavar Nata\u0161a",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "31",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "121",
+    "netto_cas": "3:53:41",
+    "ime": "Nel Classens",
+    "letnica_rojstva": "1954",
+    "mesto_v_kategoriji": "3",
+    "drzava": "NED"
+  },
+  {
+    "kategorija": "I",
+    "mesto": "122",
+    "netto_cas": "3:54:01",
+    "ime": "Seidlov\u00e1 Eva",
+    "letnica_rojstva": "1948",
+    "mesto_v_kategoriji": "1",
+    "drzava": "SVK"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "124",
+    "netto_cas": "3:54:13",
+    "ime": "Jelenc Nu\u0161a",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "125",
+    "netto_cas": "3:54:35",
+    "ime": "Dobrovoljc Andreja",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "24",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "126",
+    "netto_cas": "3:54:37",
+    "ime": "Heidi Bresseleers",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "25",
+    "drzava": "BEL"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "127",
+    "netto_cas": "3:54:51",
+    "ime": "Pi\u0161lar Martina",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "18",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "128",
+    "netto_cas": "3:54:52",
+    "ime": "Sovinc Jelka",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "129",
+    "netto_cas": "3:55:30",
+    "ime": "Comino Andreja",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "26",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "132",
+    "netto_cas": "3:55:39",
+    "ime": "Novak \u0160pela",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "34",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "133",
+    "netto_cas": "3:55:44",
+    "ime": "Biasse Marie Odile",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "20",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "134",
+    "netto_cas": "3:55:49",
+    "ime": "Polanec Irena",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "27",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "136",
+    "netto_cas": "3:55:52",
+    "ime": "Horvatek Renata",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "10",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "137",
+    "netto_cas": "3:56:12",
+    "ime": "Grilc Mija",
+    "letnica_rojstva": "1956",
+    "mesto_v_kategoriji": "4",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "138",
+    "netto_cas": "3:56:18",
+    "ime": "Donko Katja",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "19",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "139",
+    "netto_cas": "3:56:24",
+    "ime": "Saka\u010d Viktorija",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "20",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "140",
+    "netto_cas": "3:56:25",
+    "ime": "Draper Clair",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "35",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "141",
+    "netto_cas": "3:56:41",
+    "ime": "Peternel Irena",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "21",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "142",
+    "netto_cas": "3:56:56",
+    "ime": "Gregorc Anita",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "28",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "143",
+    "netto_cas": "3:57:01",
+    "ime": "Karaman Sabina",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "22",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "143",
+    "netto_cas": "3:57:01",
+    "ime": "Novak \u0160pela",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "22",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "145",
+    "netto_cas": "3:57:04",
+    "ime": "Barbara Allmer",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "29",
+    "drzava": "AUT"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "146",
+    "netto_cas": "3:57:24",
+    "ime": "Vidoni Paola",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "30",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "147",
+    "netto_cas": "3:57:34",
+    "ime": "Strnad Polona",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "21",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "149",
+    "netto_cas": "3:57:35",
+    "ime": "Stefanec Dzanela",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "36",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "150",
+    "netto_cas": "3:57:40",
+    "ime": "Kern \u0160pela",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "31",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "151",
+    "netto_cas": "3:57:43",
+    "ime": "Andrea Reiter",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "32",
+    "drzava": "AUT"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "151",
+    "netto_cas": "3:57:43",
+    "ime": "Daniela Hornaus",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "20",
+    "drzava": "AUT"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "153",
+    "netto_cas": "3:58:07",
+    "ime": "Durance Penny",
+    "letnica_rojstva": "1954",
+    "mesto_v_kategoriji": "5",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "154",
+    "netto_cas": "3:58:23",
+    "ime": "Hreljac Helena",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "37",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "155",
+    "netto_cas": "3:58:48",
+    "ime": "Pureber Kaja",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "21",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "156",
+    "netto_cas": "3:58:59",
+    "ime": "Ber\u010di\u010d Mateja",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "39",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "158",
+    "netto_cas": "3:59:04",
+    "ime": "Gregorka Milena",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "22",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "159",
+    "netto_cas": "3:59:07",
+    "ime": "Bakovi\u0107 Mirjana",
+    "letnica_rojstva": "1964",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "160",
+    "netto_cas": "3:59:12",
+    "ime": "Ivane\u017e Polona",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "23",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "161",
+    "netto_cas": "4:00:02",
+    "ime": "Makuc Jana",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "40",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "162",
+    "netto_cas": "4:00:04",
+    "ime": "Les Mojca",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "163",
+    "netto_cas": "4:00:09",
+    "ime": "Tkalec Simona",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "24",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "163",
+    "netto_cas": "4:00:09",
+    "ime": "Lu\u0161trik Nadja",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "165",
+    "netto_cas": "4:00:47",
+    "ime": "Rape Mojca",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "25",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "166",
+    "netto_cas": "4:00:58",
+    "ime": "Ba\u0161 Mateja",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "22",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "167",
+    "netto_cas": "4:01:06",
+    "ime": "Jerala Marjeta",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "34",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "168",
+    "netto_cas": "4:01:31",
+    "ime": "Rosi\u0107 Smilja",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "36",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "170",
+    "netto_cas": "4:01:33",
+    "ime": "Bole Barbara",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "23",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "171",
+    "netto_cas": "4:01:43",
+    "ime": "Bre\u0161an Vilma",
+    "letnica_rojstva": "1958",
+    "mesto_v_kategoriji": "5",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "173",
+    "netto_cas": "4:01:44",
+    "ime": "Marolt Ur\u0161ka",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "174",
+    "netto_cas": "4:02:01",
+    "ime": "Bogataj Sonja",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "26",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "175",
+    "netto_cas": "4:02:09",
+    "ime": "An\u017eel Jo\u017eica",
+    "letnica_rojstva": "1955",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "176",
+    "netto_cas": "4:02:18",
+    "ime": "Gaji\u0107 Ana",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "41",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "178",
+    "netto_cas": "4:02:29",
+    "ime": "Rossi Daniela",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "38",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "179",
+    "netto_cas": "4:02:39",
+    "ime": "Dumont Agnes",
+    "letnica_rojstva": "1955",
+    "mesto_v_kategoriji": "7",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "180",
+    "netto_cas": "4:02:42",
+    "ime": "Jan\u017eek Smiljana",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "28",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "181",
+    "netto_cas": "4:03:28",
+    "ime": "Zalezina Anja",
+    "letnica_rojstva": "1985",
+    "mesto_v_kategoriji": "24",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "182",
+    "netto_cas": "4:03:50",
+    "ime": "Tu\u0111a Andrea",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "25",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "183",
+    "netto_cas": "4:03:54",
+    "ime": "Strandman Siri Emilie",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "26",
+    "drzava": "NOR"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "184",
+    "netto_cas": "4:03:59",
+    "ime": "Nikolesi\u0107 Ingrid",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "25",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "185",
+    "netto_cas": "4:04:37",
+    "ime": "Crnomari\u0107 \u017deljka",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "42",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "187",
+    "netto_cas": "4:04:38",
+    "ime": "Kopa\u010d Nata\u0161a",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "27",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "188",
+    "netto_cas": "4:04:47",
+    "ime": "Antoli\u010d Jo\u017eefa",
+    "letnica_rojstva": "1962",
+    "mesto_v_kategoriji": "15",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "189",
+    "netto_cas": "4:05:01",
+    "ime": "Marolt Martina",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "28",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "190",
+    "netto_cas": "4:05:07",
+    "ime": "Boti\u0107 Lidija",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "29",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "191",
+    "netto_cas": "4:05:17",
+    "ime": "Prenc Larisa",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "39",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "I",
+    "mesto": "192",
+    "netto_cas": "4:05:25",
+    "ime": "Rogelj Jo\u017eica",
+    "letnica_rojstva": "1947",
+    "mesto_v_kategoriji": "2",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "193",
+    "netto_cas": "4:05:53",
+    "ime": "Komo\u010dar Sine",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "30",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "194",
+    "netto_cas": "4:06:01",
+    "ime": "Drole Vida",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "43",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "195",
+    "netto_cas": "4:06:04",
+    "ime": "Kra\u0161ovec Bogdana",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "31",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "196",
+    "netto_cas": "4:06:12",
+    "ime": "Zupan\u010di\u010d Barbara",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "40",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "197",
+    "netto_cas": "4:06:20",
+    "ime": "Bodn\u00e1r Zsuzsanna",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "44",
+    "drzava": "HUN"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "199",
+    "netto_cas": "4:06:21",
+    "ime": "Filipovic Maja",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "199",
+    "netto_cas": "4:06:21",
+    "ime": "Miklavc Bernarda",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "201",
+    "netto_cas": "4:06:30",
+    "ime": "Jamnik Sa\u0161a",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "41",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "202",
+    "netto_cas": "4:06:36",
+    "ime": "Pu\u0161nik Zdenka",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "35",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "203",
+    "netto_cas": "4:06:59",
+    "ime": "Forestier Delphine",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "36",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "204",
+    "netto_cas": "4:08:01",
+    "ime": "Cvetre\u017enik \u0160pela",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "45",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "205",
+    "netto_cas": "4:08:09",
+    "ime": "Jeler Maru\u0161a",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "46",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "206",
+    "netto_cas": "4:08:11",
+    "ime": "Orepic Petra",
+    "letnica_rojstva": "1992",
+    "mesto_v_kategoriji": "29",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "207",
+    "netto_cas": "4:08:37",
+    "ime": "Slapar Slavka",
+    "letnica_rojstva": "1960",
+    "mesto_v_kategoriji": "6",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "210",
+    "netto_cas": "4:08:39",
+    "ime": "Grum Petra",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "26",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "211",
+    "netto_cas": "4:08:44",
+    "ime": "Marn Baji\u0107 Sabina",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "27",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "212",
+    "netto_cas": "4:08:57",
+    "ime": "Ur\u0161i\u010d Andreja",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "31",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "213",
+    "netto_cas": "4:09:09",
+    "ime": "Iva\u010di\u010d Anitaa",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "47",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "214",
+    "netto_cas": "4:09:13",
+    "ime": "Dobravc Majda",
+    "letnica_rojstva": "1960",
+    "mesto_v_kategoriji": "7",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "215",
+    "netto_cas": "4:09:23",
+    "ime": "Mrak Nata\u0161a",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "48",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "215",
+    "netto_cas": "4:09:23",
+    "ime": "Kav\u010di\u010d Damijana",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "48",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "217",
+    "netto_cas": "4:09:56",
+    "ime": "Lampret Mateja",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "37",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "218",
+    "netto_cas": "4:09:57",
+    "ime": "Zupan Karmen",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "43",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "219",
+    "netto_cas": "4:10:28",
+    "ime": "Intihar \u0160pela",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "44",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "222",
+    "netto_cas": "4:10:32",
+    "ime": "Medved Ksenja",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "45",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "223",
+    "netto_cas": "4:10:34",
+    "ime": "Remic Jana",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "29",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "223",
+    "netto_cas": "4:10:34",
+    "ime": "Marton Minea",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "32",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "225",
+    "netto_cas": "4:10:41",
+    "ime": "Granzon Elisa",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "30",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "226",
+    "netto_cas": "4:10:49",
+    "ime": "Bekavac Kr\u010dadinac Jelena",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "46",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "227",
+    "netto_cas": "4:11:00",
+    "ime": "Sipola Mari",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "47",
+    "drzava": "FIN"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "228",
+    "netto_cas": "4:11:02",
+    "ime": "Perozzi Manca",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "51",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "229",
+    "netto_cas": "4:11:23",
+    "ime": "Trancart Claire",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "230",
+    "netto_cas": "4:11:38",
+    "ime": "Nagode Andreja",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "52",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "231",
+    "netto_cas": "4:11:47",
+    "ime": "Samboli\u0107 Beganovi\u0107 Amela",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "48",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "231",
+    "netto_cas": "4:11:47",
+    "ime": "Haas Sylvia",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "38",
+    "drzava": "GER"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "233",
+    "netto_cas": "4:11:48",
+    "ime": "Claudia Schramm",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "39",
+    "drzava": "GER"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "233",
+    "netto_cas": "4:11:48",
+    "ime": "Ko\u010dar Vesna",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "53",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "235",
+    "netto_cas": "4:11:54",
+    "ime": "Sluga Kuhari\u010d Petra",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "40",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "236",
+    "netto_cas": "4:12:09",
+    "ime": "Sedej Vlasta",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "54",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "237",
+    "netto_cas": "4:12:21",
+    "ime": "Ko\u017euh Maja",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "31",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "238",
+    "netto_cas": "4:12:49",
+    "ime": "Stropnik Polona",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "49",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "239",
+    "netto_cas": "4:12:56",
+    "ime": "Ko\u010devar Helga Brigita",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "41",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "240",
+    "netto_cas": "4:13:13",
+    "ime": "Sterle Nada",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "55",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "242",
+    "netto_cas": "4:13:40",
+    "ime": "Loc Mia",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "42",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "243",
+    "netto_cas": "4:13:44",
+    "ime": "Majc Nata\u0161a",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "50",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "244",
+    "netto_cas": "4:14:00",
+    "ime": "Riga\u010d Maja",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "56",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "245",
+    "netto_cas": "4:14:11",
+    "ime": "Bo\u017ei\u010d Nata\u0161a",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "43",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "246",
+    "netto_cas": "4:14:13",
+    "ime": "Lesar Anja",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "57",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "247",
+    "netto_cas": "4:14:58",
+    "ime": "Mo\u010dnik Bevc Mojca",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "58",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "248",
+    "netto_cas": "4:15:03",
+    "ime": "Spasojevic Ana",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "34",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "249",
+    "netto_cas": "4:15:08",
+    "ime": "Toplak Suzana",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "59",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "250",
+    "netto_cas": "4:15:18",
+    "ime": "Alt Nina",
+    "letnica_rojstva": "1991",
+    "mesto_v_kategoriji": "35",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "251",
+    "netto_cas": "4:15:29",
+    "ime": "Lamut Maru\u0161a",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "33",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "252",
+    "netto_cas": "4:16:05",
+    "ime": "Helbl Andreja",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "60",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "253",
+    "netto_cas": "4:16:18",
+    "ime": "Bari\u010d Tamara",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "36",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "254",
+    "netto_cas": "4:16:34",
+    "ime": "Rejc Franja",
+    "letnica_rojstva": "1957",
+    "mesto_v_kategoriji": "8",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "255",
+    "netto_cas": "4:16:43",
+    "ime": "Gerda Peeters Delauw",
+    "letnica_rojstva": "1952",
+    "mesto_v_kategoriji": "8",
+    "drzava": "NED"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "256",
+    "netto_cas": "4:17:01",
+    "ime": "Domislovi\u0107 Jelena",
+    "letnica_rojstva": "1982",
+    "mesto_v_kategoriji": "34",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "256",
+    "netto_cas": "4:17:01",
+    "ime": "Gazivoda Zvonka",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "44",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "258",
+    "netto_cas": "4:17:07",
+    "ime": "Sterle Irma",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "45",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "259",
+    "netto_cas": "4:17:11",
+    "ime": "Tounec Dunja",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "61",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "260",
+    "netto_cas": "4:17:16",
+    "ime": "Savovi\u010d Sara",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "37",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "261",
+    "netto_cas": "4:17:27",
+    "ime": "Kocjan Lilijana",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "46",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "262",
+    "netto_cas": "4:17:31",
+    "ime": "Iskra\u010d Sabina",
+    "letnica_rojstva": "1984",
+    "mesto_v_kategoriji": "35",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "263",
+    "netto_cas": "4:17:35",
+    "ime": "Eberhart Nina",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "38",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "264",
+    "netto_cas": "4:18:06",
+    "ime": "Sippings Elisabeth",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "47",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "265",
+    "netto_cas": "4:18:25",
+    "ime": "Rosenstein Jo\u017eica",
+    "letnica_rojstva": "1959",
+    "mesto_v_kategoriji": "9",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "265",
+    "netto_cas": "4:18:33",
+    "ime": "Bareggi Dora",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "48",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "268",
+    "netto_cas": "4:18:39",
+    "ime": "Vukovi\u0107 Butorac Tereza",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "51",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "269",
+    "netto_cas": "4:18:59",
+    "ime": "Kramer Jana",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "52",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "270",
+    "netto_cas": "4:19:04",
+    "ime": "N\u00e9meth Henrietta",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "62",
+    "drzava": "HUN"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "271",
+    "netto_cas": "4:19:10",
+    "ime": "Pozni\u010d Jerca",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "39",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "272",
+    "netto_cas": "4:19:12",
+    "ime": "Podjed-fabjan\u010di\u010d Milena",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "49",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "273",
+    "netto_cas": "4:19:45",
+    "ime": "Kuittinen Eija",
+    "letnica_rojstva": "1952",
+    "mesto_v_kategoriji": "9",
+    "drzava": "FIN"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "275",
+    "netto_cas": "4:19:48",
+    "ime": "Odoba\u0161i\u0107 Tijana",
+    "letnica_rojstva": "1989",
+    "mesto_v_kategoriji": "40",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "276",
+    "netto_cas": "4:19:50",
+    "ime": "Babi\u010d Elizabeta",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "17",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "277",
+    "netto_cas": "4:20:01",
+    "ime": "Jakomin Darja",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "54",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "278",
+    "netto_cas": "4:20:42",
+    "ime": "Patel Nutan Roshni",
+    "letnica_rojstva": "1995",
+    "mesto_v_kategoriji": "41",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "279",
+    "netto_cas": "4:20:47",
+    "ime": "Zajec Brigita",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "63",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "280",
+    "netto_cas": "4:20:49",
+    "ime": "Suvorov Mojca",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "18",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "281",
+    "netto_cas": "4:21:25",
+    "ime": "Kajfe\u017e Jana",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "55",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "283",
+    "netto_cas": "4:21:31",
+    "ime": "Lem Jenny",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "36",
+    "drzava": "SIN"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "284",
+    "netto_cas": "4:21:39",
+    "ime": "Pevec Susanne",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "52",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "286",
+    "netto_cas": "4:21:41",
+    "ime": "Slapnik Yebuah Leticia",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "56",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "287",
+    "netto_cas": "4:21:48",
+    "ime": "Mrzelj Irma",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "53",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "288",
+    "netto_cas": "4:21:54",
+    "ime": "Vicel Patricija",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "57",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "288",
+    "netto_cas": "4:21:54",
+    "ime": "Juji\u0107 Milena",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "64",
+    "drzava": "BIH"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "288",
+    "netto_cas": "4:21:54",
+    "ime": "Gusak Brigita",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "64",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "291",
+    "netto_cas": "4:21:58",
+    "ime": "Steblovnik Lili",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "58",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "292",
+    "netto_cas": "4:22:04",
+    "ime": "Maddox Julie",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "66",
+    "drzava": "CZE"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "293",
+    "netto_cas": "4:22:38",
+    "ime": "Fiorenini Nikolina",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "67",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "294",
+    "netto_cas": "4:22:47",
+    "ime": "Buh Katarina",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "54",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "294",
+    "netto_cas": "4:22:52",
+    "ime": "Ko\u0161ir Leni",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "59",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "297",
+    "netto_cas": "4:22:54",
+    "ime": "Kon\u010dan Darija",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "56",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "297",
+    "netto_cas": "4:22:54",
+    "ime": "Brigitte Russo",
+    "letnica_rojstva": "1959",
+    "mesto_v_kategoriji": "10",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "299",
+    "netto_cas": "4:22:57",
+    "ime": "Kalan Maja",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "19",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "300",
+    "netto_cas": "4:23:10",
+    "ime": "Jamsek Simona",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "60",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "301",
+    "netto_cas": "4:23:40",
+    "ime": "Masl\u00e1kov\u00e1 Gabriela",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "42",
+    "drzava": "SVK"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "302",
+    "netto_cas": "4:23:59",
+    "ime": "Knol \u0160pela",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "68",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "303",
+    "netto_cas": "4:24:00",
+    "ime": "Ba\u0161a Cigoj Barbara",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "69",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "304",
+    "netto_cas": "4:24:38",
+    "ime": "Purg Maja",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "37",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "304",
+    "netto_cas": "4:24:38",
+    "ime": "Breznikar Nata\u0161a",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "57",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "306",
+    "netto_cas": "4:24:44",
+    "ime": "Dobran \u010cernjul Anica",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "70",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "307",
+    "netto_cas": "4:25:19",
+    "ime": "Brezav\u0161\u010dek Lidija",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "20",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "308",
+    "netto_cas": "4:25:30",
+    "ime": "Pecman Nata\u0161a",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "61",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "309",
+    "netto_cas": "4:25:44",
+    "ime": "Kova\u010di\u0107 Andrea",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "71",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "310",
+    "netto_cas": "4:26:00",
+    "ime": "Weisseisen Lucija",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "62",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "311",
+    "netto_cas": "4:26:15",
+    "ime": "Erdec Andrijana",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "72",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "312",
+    "netto_cas": "4:26:31",
+    "ime": "Ves Bla\u017eka",
+    "letnica_rojstva": "1992",
+    "mesto_v_kategoriji": "43",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "313",
+    "netto_cas": "4:26:36",
+    "ime": "Pompe Manca",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "63",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "314",
+    "netto_cas": "4:26:38",
+    "ime": "Ciber Marija",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "64",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "315",
+    "netto_cas": "4:26:39",
+    "ime": "Stari\u010d Renati",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "65",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "316",
+    "netto_cas": "4:26:49",
+    "ime": "Gnil\u0161ek Tamara",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "73",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "317",
+    "netto_cas": "4:26:58",
+    "ime": "Stefania Bosi",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "44",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "318",
+    "netto_cas": "4:27:30",
+    "ime": "Poredo\u0161 Darinka",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "66",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "319",
+    "netto_cas": "4:27:31",
+    "ime": "Skaza Darja",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "58",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "320",
+    "netto_cas": "4:27:44",
+    "ime": "Kotnik Mojca",
+    "letnica_rojstva": "1998",
+    "mesto_v_kategoriji": "45",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "321",
+    "netto_cas": "4:28:03",
+    "ime": "Polanc Novak Darja",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "74",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "321",
+    "netto_cas": "4:28:03",
+    "ime": "Fistrovi\u010d Andreja",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "59",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "323",
+    "netto_cas": "4:28:50",
+    "ime": "Frankovi\u010d Mirjana",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "67",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "324",
+    "netto_cas": "4:28:54",
+    "ime": "Cafuta Barbara",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "60",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "325",
+    "netto_cas": "4:29:08",
+    "ime": "Sergent Sophie",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "68",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "326",
+    "netto_cas": "4:29:27",
+    "ime": "Mazouat Camille",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "76",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "329",
+    "netto_cas": "4:29:48",
+    "ime": "P\u00e1lfi L\u00edvia",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "69",
+    "drzava": "HUN"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "331",
+    "netto_cas": "4:30:19",
+    "ime": "Novak Alenka",
+    "letnica_rojstva": "1957",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "332",
+    "netto_cas": "4:30:26",
+    "ime": "Bobov\u010dan Ivana",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "39",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "333",
+    "netto_cas": "4:30:54",
+    "ime": "Jasenc Marija",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "61",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "334",
+    "netto_cas": "4:31:31",
+    "ime": "Sibley Lauren",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "46",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "335",
+    "netto_cas": "4:31:37",
+    "ime": "Rihtar Sara",
+    "letnica_rojstva": "1990",
+    "mesto_v_kategoriji": "47",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "336",
+    "netto_cas": "4:31:40",
+    "ime": "Pace Caterina",
+    "letnica_rojstva": "1957",
+    "mesto_v_kategoriji": "12",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "337",
+    "netto_cas": "4:31:55",
+    "ime": "Primc Vida",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "21",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "338",
+    "netto_cas": "4:32:36",
+    "ime": "Ob\u0161teter Jana",
+    "letnica_rojstva": "1991",
+    "mesto_v_kategoriji": "48",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "339",
+    "netto_cas": "4:33:20",
+    "ime": "Vescovi Elena",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "62",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "340",
+    "netto_cas": "4:33:57",
+    "ime": "Ko\u0161ir Helena",
+    "letnica_rojstva": "1957",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "342",
+    "netto_cas": "4:34:23",
+    "ime": "Lazar Marlen",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "41",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "344",
+    "netto_cas": "4:34:43",
+    "ime": "Kova\u010devi\u0107 Mirjana",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "78",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "345",
+    "netto_cas": "4:34:46",
+    "ime": "Gla\u017ear Tanja",
+    "letnica_rojstva": "1965",
+    "mesto_v_kategoriji": "23",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "346",
+    "netto_cas": "4:35:02",
+    "ime": "Grgona Vesna",
+    "letnica_rojstva": "1970",
+    "mesto_v_kategoriji": "63",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "347",
+    "netto_cas": "4:35:08",
+    "ime": "Starc Breda",
+    "letnica_rojstva": "1955",
+    "mesto_v_kategoriji": "10",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "348",
+    "netto_cas": "4:35:29",
+    "ime": "Lajovec Klemen\u010di\u010d Katja",
+    "letnica_rojstva": "1977",
+    "mesto_v_kategoriji": "79",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "349",
+    "netto_cas": "4:36:16",
+    "ime": "Krizaj Bianka",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "70",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "350",
+    "netto_cas": "4:36:17",
+    "ime": "Smre\u010dnik Darja",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "64",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "351",
+    "netto_cas": "4:36:18",
+    "ime": "Romcevic Jelena",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "80",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "352",
+    "netto_cas": "4:36:19",
+    "ime": "Nikolic Marija",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "81",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "353",
+    "netto_cas": "4:36:29",
+    "ime": "Matulic Katarina",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "49",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "354",
+    "netto_cas": "4:36:45",
+    "ime": "Poga\u010dnik Jasmina",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "82",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "355",
+    "netto_cas": "4:36:48",
+    "ime": "Ga\u0161par Andreja",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "71",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "356",
+    "netto_cas": "4:39:01",
+    "ime": "Sterle Mateja",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "72",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "357",
+    "netto_cas": "4:39:20",
+    "ime": "Pavlovi\u010d \u0160o\u0161tar Tamara",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "65",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "I",
+    "mesto": "357",
+    "netto_cas": "4:39:20",
+    "ime": "Le\u0161nik Vlasta",
+    "letnica_rojstva": "1948",
+    "mesto_v_kategoriji": "3",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "359",
+    "netto_cas": "4:39:24",
+    "ime": "Flajsinger Smiljana",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "24",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "360",
+    "netto_cas": "4:40:57",
+    "ime": "Mohori\u010d Darinka",
+    "letnica_rojstva": "1968",
+    "mesto_v_kategoriji": "66",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "361",
+    "netto_cas": "4:41:14",
+    "ime": "Lepo\u0161a Mojca",
+    "letnica_rojstva": "1951",
+    "mesto_v_kategoriji": "11",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "362",
+    "netto_cas": "4:41:15",
+    "ime": "Malagola Silvia",
+    "letnica_rojstva": "1983",
+    "mesto_v_kategoriji": "42",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "363",
+    "netto_cas": "4:42:07",
+    "ime": "Eho Tarja",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "25",
+    "drzava": "FIN"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "364",
+    "netto_cas": "4:42:12",
+    "ime": "Rahmann Corinna",
+    "letnica_rojstva": "1964",
+    "mesto_v_kategoriji": "26",
+    "drzava": "GER"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "365",
+    "netto_cas": "4:42:13",
+    "ime": "Crnko Kova\u010d Ljiljana",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "27",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "366",
+    "netto_cas": "4:42:46",
+    "ime": "Stare Jana",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "73",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "367",
+    "netto_cas": "4:43:31",
+    "ime": "Morandini Lucia",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "74",
+    "drzava": "ITA"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "368",
+    "netto_cas": "4:43:40",
+    "ime": "Pock Kralj Yvonne",
+    "letnica_rojstva": "1987",
+    "mesto_v_kategoriji": "50",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "369",
+    "netto_cas": "4:43:50",
+    "ime": "Sarajevcic Natasa",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "67",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "370",
+    "netto_cas": "4:44:06",
+    "ime": "Gerbec Andreja",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "75",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "371",
+    "netto_cas": "4:44:07",
+    "ime": "Taljat \u0160ulin Ne\u017eka",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "76",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "372",
+    "netto_cas": "4:44:59",
+    "ime": "Wiggins Carla",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "83",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "373",
+    "netto_cas": "4:45:08",
+    "ime": "Spori\u0161 Marjeta",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "68",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "374",
+    "netto_cas": "4:45:14",
+    "ime": "Tinauer Katarina",
+    "letnica_rojstva": "1975",
+    "mesto_v_kategoriji": "77",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "375",
+    "netto_cas": "4:45:53",
+    "ime": "Vidic Karin",
+    "letnica_rojstva": "1964",
+    "mesto_v_kategoriji": "28",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "376",
+    "netto_cas": "4:45:54",
+    "ime": "Mili\u010d Rada",
+    "letnica_rojstva": "1952",
+    "mesto_v_kategoriji": "12",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "377",
+    "netto_cas": "4:46:04",
+    "ime": "Bari\u0107 Ana",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "84",
+    "drzava": "CRO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "378",
+    "netto_cas": "4:46:28",
+    "ime": "Lipicer Stanti\u010d Mojca",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "78",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "379",
+    "netto_cas": "4:46:42",
+    "ime": "Mlakar Metka",
+    "letnica_rojstva": "1952",
+    "mesto_v_kategoriji": "13",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "380",
+    "netto_cas": "4:47:09",
+    "ime": "Kalan Jasna",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "85",
+    "drzava": "USA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "381",
+    "netto_cas": "4:48:42",
+    "ime": "Novak Vesna",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "79",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "382",
+    "netto_cas": "4:49:09",
+    "ime": "Podlipnik Ana",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "86",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "B",
+    "mesto": "382",
+    "netto_cas": "4:49:09",
+    "ime": "Horvat Klara",
+    "letnica_rojstva": "1981",
+    "mesto_v_kategoriji": "43",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "G",
+    "mesto": "382",
+    "netto_cas": "4:50:03",
+    "ime": "Ferleti\u010d Helena",
+    "letnica_rojstva": "1956",
+    "mesto_v_kategoriji": "14",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "386",
+    "netto_cas": "4:52:30",
+    "ime": "Stopin\u0161ek Gol\u010dman Sa\u0161a",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "80",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "387",
+    "netto_cas": "4:53:11",
+    "ime": "Uj\u010di\u010d Mojca",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "81",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "388",
+    "netto_cas": "4:55:14",
+    "ime": "Klane\u010dek Brigita",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "29",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "390",
+    "netto_cas": "4:57:41",
+    "ime": "Bernik Valerija",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "82",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "391",
+    "netto_cas": "4:58:53",
+    "ime": "Ajanovic Jasmina",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "87",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "392",
+    "netto_cas": "5:00:00",
+    "ime": "Vodopivec Ingrid",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "83",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "393",
+    "netto_cas": "5:00:31",
+    "ime": "Golouh Tatjana",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "70",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "394",
+    "netto_cas": "5:00:49",
+    "ime": "Trstenjak Renata",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "88",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "395",
+    "netto_cas": "5:01:08",
+    "ime": "Sobo\u010dan Monja",
+    "letnica_rojstva": "1973",
+    "mesto_v_kategoriji": "84",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "396",
+    "netto_cas": "5:01:32",
+    "ime": "Ga\u0161perin Mojca",
+    "letnica_rojstva": "1962",
+    "mesto_v_kategoriji": "30",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "397",
+    "netto_cas": "5:03:41",
+    "ime": "Trdi\u010d Tanja",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "85",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "398",
+    "netto_cas": "5:03:42",
+    "ime": "Peternel Seli",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "86",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "399",
+    "netto_cas": "5:03:58",
+    "ime": "Makovec Jana",
+    "letnica_rojstva": "1978",
+    "mesto_v_kategoriji": "89",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "400",
+    "netto_cas": "5:04:10",
+    "ime": "Slana Erna",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "71",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "401",
+    "netto_cas": "5:04:16",
+    "ime": "Podgornik Nata\u0161a",
+    "letnica_rojstva": "1966",
+    "mesto_v_kategoriji": "72",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "402",
+    "netto_cas": "5:06:10",
+    "ime": "Ninkovic Minja",
+    "letnica_rojstva": "1980",
+    "mesto_v_kategoriji": "90",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "403",
+    "netto_cas": "5:07:09",
+    "ime": "Owen Beverley",
+    "letnica_rojstva": "1963",
+    "mesto_v_kategoriji": "31",
+    "drzava": "GBR"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "404",
+    "netto_cas": "5:07:57",
+    "ime": "Pestotnik Tina",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "73",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "404",
+    "netto_cas": "5:07:57",
+    "ime": "Toma\u017ei\u010d Mojca",
+    "letnica_rojstva": "1969",
+    "mesto_v_kategoriji": "73",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "406",
+    "netto_cas": "5:08:41",
+    "ime": "Kej\u017ear Anamarija",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "87",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "407",
+    "netto_cas": "5:10:37",
+    "ime": "Hribov\u0161ek Ema",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "88",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "408",
+    "netto_cas": "5:11:00",
+    "ime": "Gorjup Martina",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "51",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "409",
+    "netto_cas": "5:11:53",
+    "ime": "Rogli\u010d Ksenija",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "89",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "409",
+    "netto_cas": "5:11:53",
+    "ime": "Krasnik Simona",
+    "letnica_rojstva": "1971",
+    "mesto_v_kategoriji": "89",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "411",
+    "netto_cas": "5:14:18",
+    "ime": "Rant Mateja",
+    "letnica_rojstva": "1976",
+    "mesto_v_kategoriji": "91",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "412",
+    "netto_cas": "5:15:05",
+    "ime": "Di\u0161i\u0107 Dragana",
+    "letnica_rojstva": "1986",
+    "mesto_v_kategoriji": "52",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "412",
+    "netto_cas": "5:15:05",
+    "ime": "Gilice Samanta",
+    "letnica_rojstva": "1988",
+    "mesto_v_kategoriji": "52",
+    "drzava": "SRB"
+  },
+  {
+    "kategorija": "H",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Alibegi\u0107 Milena",
+    "letnica_rojstva": "1955",
+    "mesto_v_kategoriji": "14",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "A",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Kralj Lea",
+    "letnica_rojstva": "1989",
+    "mesto_v_kategoriji": "54",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "C",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Kuzman Polona",
+    "letnica_rojstva": "1979",
+    "mesto_v_kategoriji": "92",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Nagette Pavan",
+    "letnica_rojstva": "1974",
+    "mesto_v_kategoriji": "91",
+    "drzava": "FRA"
+  },
+  {
+    "kategorija": "D",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Wilk Alexandra",
+    "letnica_rojstva": "1972",
+    "mesto_v_kategoriji": "91",
+    "drzava": "AUT"
+  },
+  {
+    "kategorija": "E",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Zupan\u010di\u010d Damjana",
+    "letnica_rojstva": "1967",
+    "mesto_v_kategoriji": "75",
+    "drzava": "SLO"
+  },
+  {
+    "kategorija": "F",
+    "mesto": "414",
+    "netto_cas": "DNF",
+    "ime": "Mikec Irma",
+    "letnica_rojstva": "1961",
+    "mesto_v_kategoriji": "32",
+    "drzava": "SLO"
+  }
+]
