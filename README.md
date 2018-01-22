@@ -19,5 +19,11 @@ Zajeti podatki:
     <br>
     -mesto v kategoriji
 <br>
+<br>
 Podatki so analizirani glede na spol, letnico rojstva, državljanstvo...
-
+<br>
+<br>
+V datoteki Podatki.py se nahaja koda, katero poženete, da dobite csv datoteke, ki pa so že naložene.
+<br>
+<br>
+Analiza podatkov se nahaja v datoteki Projekt_maraton.ipynb.
