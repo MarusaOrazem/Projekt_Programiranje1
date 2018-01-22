@@ -1,8 +1,10 @@
 # Projekt_Programiranje1
 Projekt pri predmetu Programiranje 1.
+<br>
 V projektu se nahaja analiza podatkov Ljubljanskega maratona, od 19. do 21. maratona.
 
 Zajeti podatki:
+    <br>
     -mesto tekmovalca (uvrstitev) 
     <br>
     -ime
@@ -16,3 +18,6 @@ Zajeti podatki:
     -kategorija
     <br>
     -mesto v kategoriji
+<br>
+Podatki so analizirani glede na spol, letnico rojstva, državljanstvo...
+
