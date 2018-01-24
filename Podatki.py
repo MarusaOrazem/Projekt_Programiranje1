@@ -4,15 +4,18 @@ import os
 import csv
 
 
+
 #URL strani ljubljanskega maratona
-lj_maraton_rezultati_url = "http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=20lm&kat=42Z"
+vse_strani_lj_maraton = [("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=19lm&kat=42M", 'podatki_moski19'),
+                         ("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=19lm&kat=42Z", 'podatki_zenske19'),
+                          ("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=20lm&kat=42M", 'podatki_moski20'),
+                           ("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=20lm&kat=42Z", 'podatki_zenske20'),
+                            ("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=21lm&kat=42M", 'podatki_moski21'),
+                             ("http://timingljubljana.si/lmzg/zgodovina_rez.asp?l=&lm=21lm&kat=42Z", 'podatki_zenske21')]
 rezultati_directory = "rezultati"
 frontpage_filename = "webpage.html"
 
-
 def download_url_to_string(url):
-    '''This function takes a URL as argument and tries to download it
-    using requests. Upon success, it returns the page contents as string.'''
     webpage = requests.get(url)
     webpage.encoding = "windows-1250"
     if webpage.ok:
@@ -27,25 +30,21 @@ def download_url_to_string(url):
 
 
 def save_string_to_file(text, directory, filename):
-    '''Write "text" to the file "filename" located in directory "directory",
-    creating "directory" if necessary. If "directory" is the empty string, use
-    the current directory.'''
     os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
     with open(path, 'w') as file_out:
         file_out.write(text)
     return None
 
-def save_maraton_webpage():
-    webpage_text = download_url_to_string(lj_maraton_rezultati_url)
+def save_maraton_webpage(spletna_stran):
+    webpage_text = download_url_to_string(spletna_stran)
     save_string_to_file(webpage_text, rezultati_directory, frontpage_filename)
     return None
 
 
 
+
 def read_file_to_string(directory, filename):
-    '''Return the contents of the file "directory"/"filename" as a string.
-    '''
     path = os.path.join(directory, filename)
     with open(path, 'r') as file_in:
         a = file_in.read()
@@ -53,14 +52,45 @@ def read_file_to_string(directory, filename):
 
 def locitev_razdelkov():
     vsebina = read_file_to_string(rezultati_directory, frontpage_filename)
-    vzorec = re.compile(r"<b>(\d+)<\/b>"  + r".*?" + r"<TD>([A-Z].+?)<\/TD>"
-                        + r".*?" + r"nbsp;(\d{4}).nbsp"
-                        + r".*?" + r"nbsp;((\d:\d{2}:\d{2})|(DNF))"
-                        + r".*?" + r"nbsp;(\D)&nbsp"
-                        + r".*?" + r"nbsp;(\d+)&nbsp"
+    vzorec = re.compile(r"<b>(?P<mesto>\d+)<\/b>"
+                        + r".*?" + r"<TD>(?P<ime>[A-Z].+?)<\/TD>"
+                        + r".*?" + r"nbsp;(?P<letnica_rojstva>\d{4}).nbsp"
+                        + r".*?" + r"nbsp;(?P<drzava>\D{3})&nbsp"
+                        + r".*?" + r"nbsp;(?P<netto_cas>(\d:\d{2}:\d{2})|(DNF))"
+                        + r".*?" + r"nbsp;(?P<kategorija>\D)&nbsp"
+                        + r".*?" + r"nbsp;(?P<mesto_v_kategoriji>\d+)&nbsp"
                         ,  re.DOTALL)
     iterator = vzorec.finditer(vsebina)
-    result = [x.group(8) for x in iterator]
+    result = [x.group('mesto', 'ime', 'letnica_rojstva', 'drzava', 'netto_cas', 'kategorija', 'mesto_v_kategoriji') for x in iterator]
+
     return result
 
-print(locitev_razdelkov())
+
+
+def zapisi_csv(podatki, polja, ime_datoteke):
+    with open(ime_datoteke, 'w') as datoteka:
+        pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
+        pisalec.writeheader()
+        for podatek in podatki:
+            pisalec.writerow(podatek)
+
+polja = ['mesto', 'ime', 'letnica_rojstva', 'drzava', 'netto_cas', 'kategorija', 'mesto_v_kategoriji']
+
+def zapisi_vse_csv(spletne_strani):
+    for spletna_stran, ime_datoteke in spletne_strani:
+        save_maraton_webpage(spletna_stran)
+        podatki = locitev_razdelkov()
+        koncni = []
+        for sklop in podatki:
+            novi_podatki = {}
+            novi_podatki['mesto'] = sklop[0]
+            novi_podatki['ime'] = sklop[1]
+            novi_podatki['letnica_rojstva'] = sklop[2]
+            novi_podatki['drzava'] = sklop[3]
+            novi_podatki['netto_cas'] = sklop[4]
+            novi_podatki['kategorija'] = sklop[5]
+            novi_podatki['mesto_v_kategoriji'] = sklop[6]
+            koncni.append(novi_podatki)
+        zapisi_csv(koncni, polja, ime_datoteke)
+
+zapisi_vse_csv(vse_strani_lj_maraton)
